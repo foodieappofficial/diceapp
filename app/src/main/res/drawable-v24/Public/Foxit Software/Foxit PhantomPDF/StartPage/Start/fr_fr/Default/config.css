@@ -1,0 +1,48 @@
+@charset "utf-8";
+body{
+	background-color:#A5A5A5;
+	color:#333;
+}
+.containerMid, .containerRight{
+	background-color:#FFF;	
+}
+
+.store{
+	color:#D74108;
+	
+}
+.phone{
+	font-weight:bold;
+	font-family:Verdana, Geneva, sans-serif;
+	font-style:italic;
+}
+.btn{
+	background-color:#D74108;
+	color:#FFFFFF;
+	cursor:pointer;
+}
+.btnBlue{
+	background-color:#0095D5;
+	color:#FFFFFF;
+	cursor:pointer;
+	margin:0px auto;
+}
+.download{
+	background:url(../images/btn_download.jpg) no-repeat 0 -5px;
+	
+}
+.title{
+	background-color:#0197D6;
+	color:#FFF;
+}
+.regNote{
+	color:#069;
+	font-size:14px;
+	padding:10px 25px;
+	line-height:20px;
+}
+a{
+	color:#0096D6;
+	
+}
+	
